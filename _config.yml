@@ -22,7 +22,7 @@ repository               : "me/asonnenber.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LSP pixsy.jpg"
   name             : "Andrea Sonnenberg"
   pronouns         : # example: "she/her"  (unhashtag to put pronouns, I don't care enough though)
   bio              : "I am very hungry right now"
