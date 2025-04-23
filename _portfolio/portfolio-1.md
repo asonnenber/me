@@ -1,7 +1,10 @@
----
-title: "Cat Cafe Antics"
-excerpt: "This is a Ren'Py game I created."
-collection: portfolio
----
+# Cat Cafe Antics
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+**Cat Cafe Antics** is a silly, sarcasm-filled visual novel about two friends at a cat cafe with some great lo-fi music, and yes, there is a talking cat.
+<br/>
+
+![Alt](files/catc_1.png)
+
+<br/>
+If you're interested in playing the game, it's available on [itch.io] (https://sonnywithana.itch.io/cat-cafe-antics)
