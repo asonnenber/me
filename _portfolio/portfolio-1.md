@@ -2,8 +2,8 @@
 title: "Cat Cafe Antics"
 excerpt: "**Cat Cafe Antics** is a silly, sarcasm-filled visual novel about two friends at a cat cafe with some great lo-fi music, and yes, there is a talking cat.
 
-![Screenshot 2025-04-23 002235](https://github.com/user-attachments/assets/bfcb7c6f-f3ed-4086-9e83-754bc0ebae8e)
-'>"
+
+![Screenshot 2025-04-23 002235](https://github.com/user-attachments/assets/bfcb7c6f-f3ed-4086-9e83-754bc0ebae8e)'>"
 collection: portfolio
 ---
 
