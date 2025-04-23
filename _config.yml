@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Andrea Sonnenberg / Site Title"
 title_separator          : "-"
 name                     : &name "Andrea Sonnenberg"
-description              : &description "MA Digital Humanities | Student | MHC Clerk | EPL"
+description              : &description ""
 url                      : https://asonnenber.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
 repository               : "me/asonnenber.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "LSP pixsy.jpg"
   name             : "Andrea Sonnenberg"
   pronouns         : # example: "she/her"  (unhashtag to put pronouns, I don't care enough though)
-  bio              : "I am very hungry right now"
+  bio              : "MA Digital Humanities | Student | "
   location         : "Edmonton"
   employer         : "Edmonton Public Library"
   uri              : # URL
