@@ -1,7 +1,6 @@
 ---
 title: "Who Stole the Cookies from the Cookie Jar?"
-excerpt: "Who stole the Cookies from the Cookie Jar is a text generator I create via a template. This text generator's only job is to give out random answers when asked the question, "Who stole the cookies from the cookie jar?" 
-![Screenshot 2025-04-23 042727](https://github.com/user-attachments/assets/31a0a912-8534-4024-87f3-c2e07e24fb0d)'>"
+excerpt: "Who stole the Cookies from the Cookie Jar is a text generator I create via a template. This text generator's only job is to give out random answers when asked the question, "Who stole the cookies from the cookie jar?" ![Screenshot 2025-04-23 042727](https://github.com/user-attachments/assets/31a0a912-8534-4024-87f3-c2e07e24fb0d)'>"
 collection: portfolio
 ---
 
