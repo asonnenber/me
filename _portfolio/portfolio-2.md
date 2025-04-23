@@ -1,3 +1,9 @@
+---
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 # Who Stole the Cookies from the Cookie Jar?
 Who Stole the Cookies from the Cookie Jar is a Tracery scrambler that I created. Its only job is to give out random answers when asked the question, "Who stole the cookies from the cookie jar?"
 
