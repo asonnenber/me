@@ -1,20 +1,13 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+# Education
+BA in Classics, University of Alberta, 2022
+Culinary Arts Diploma, NAIT, 2014
 
-{% include base_path %}
+# Work Experience
+September 2015 - Present: Materials Handling Clerk
+Edmonton Public Library
 
-Education
-======
-* BA in Classics, University of Alberta, 2022
-* Culinary Arts Diploma, NAIT, 2014
-
-Work experience
-======
-* September 2015 - Present: Materials Handling Clerk
-  * Edmonton Public Library
+# Technical Skills
+Voyant / Spyral
+Python
+SQL
+GameMaker
