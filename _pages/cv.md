@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+
+**MA in Digital Humanities**, University of Alberta, September 2023 - Present
+* Specialization in Library and Information Studies
+* University of Alberta Elevation Award (2024)
+* Member of the Digital Humanities Students Association
+
 **BA in Classics**, University of Alberta, 2022
 * Linguistics Minor
 * Jason Lang Scholarship (2019, 2020, 2021)
