@@ -14,4 +14,4 @@ collection: portfolio
 
 I adored making this game so much and will be tweaking it over the next year. <b/>
 
-If you're interested in playing it's available on [itch.io](https://sonnywithana.itch.io/cat-cafe-antics)
+If you're interested in playing, the game is available on [itch.io](https://sonnywithana.itch.io/cat-cafe-antics).
