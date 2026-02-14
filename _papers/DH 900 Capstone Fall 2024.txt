@@ -1,0 +1,321 @@
+﻿Join Me on My Next Case: Story, Gameplay and Game Mechanics in the Nancy Drew PC Series During the Rise, Fall and Resurgence of Point-and-Click Adventure Games
+
+
+Before action games took over the gaming world, adventure games were the genre of choice. During the adventure genre heyday, point-and-click PC adventures were all the rage. Players explored different locations by clicking on-screen controls or using their arrow keys to move between fixed camera positions (Rollings & Adams, 2003; WizardKitten, 2022). These games revolved around item and information collection and utilization, story-driven dialogue, and exploration (Rollings & Adams, 2003). This subgenre of adventure games was also popular for its use of logic and riddle, mechanical, and inventory puzzles. However, point-and-click adventure games have a tumultuous history, with three distinct periods: one of innovation, one of decline, and one of revival. This research paper will explore story, gameplay, and game mechanics in HeR Interactive's Nancy Drew PC series to see if this PC series' history coincides with the rise, fall, and resurgence of the point-and-click genre. It will utilize data collected from personal playthroughs of all thirty-five PC games to form a timeline of high and low points in developing this series. HeR Interactive games outside the series were excluded from data collection, as well as non-PC games, even those in the Nancy Drew gaming series.
+        HeR Interactive (HER) was originally a division of American Laser Games before it became an independent company (Ballou, 2018). HER released its first point-and-click adventure game loosely based on The Nancy Drew Files book series in 1998 (Butler, 2017). This game, Nancy Drew: Secrets Can Kill, is the only game in this series with 2D characters among pre-rendered 3D environments and the only game with a remastered version released in 2010 with an altered storyline, game environment, characters, and game mechanics. Later games have pre-rendered environments and 3D character models built in HER's game engine (Ballou, 2018), which the developers adjusted as computers and graphics advanced. 
+Figure 1
+3D rendering example in credits of Nancy Drew: Labyrinth of Lies
+  
+
+Note: Screenshot from Nancy Drew: Labyrinth of Lies [PC] by HeR Interactive, 2014. Copyright 2014 by Her Interactive.
+
+
+Figure 2
+
+
+3D rendering example in credits of Nancy Drew: Sea of Darkness
+  
+
+Note. Screenshot from Nancy Drew: Sea of Darkness [PC] by HeR Interactive, 2015. Copyright 2015 by HeR Interactive.
+Though many of the games are well-loved by fans, they never grew out of their girl-game stigma due to their marketing, which targeted female audiences rather than an audience that preferred games without action-filled explosions and over-the-top violence. However, unlike previous games targeting young females, HeR Interactive employed a teenage female advisory group for their thoughts and recommendations (Herold, 2000; Braithwaite, 2018). This panel helped create an independent Nancy Drew figure during the girl games movement in the late 1990s to the early 2000s (Braithwaite, 2018; Shook, 2018). Since its inception, the Nancy Drew PC series has become one of the longest-running PC game franchises, with its latest release in 2024. 
+The classic Nancy Drew interface had the entire screen surrounded by a teal border, a playable game window in the center, and "two silhouettes of Nancy sitting on the let and rides sides of the border" (WizardKitten, 2022). The bottom 1/3 of the screen has two bordered boxes, one for dialogue and one for inventory. During gameplay, the cursor is shaped like a magnifying glass and outlines itself red when Nancy interacts with an item or area. When choosing a dialogue option in the text box, the cursor becomes a yellow arrow, switching to a navigational arrow when the player wants Nancy to move forward or backward. The magnifying glass is outlined in blue for the first few games when the player wants to rotate Nancy left or right. In later games, it becomes a navigational left or right arrow, depending on the player's direction (WizardKitten, 2022). Nancy Drew: Treasure in the Royal Tower introduced the first interactive tutorial, which featured Nancy's hotel room from this game. Later, in Nancy Drew: Danger by Design, players are introduced to Nancy's world "by placing them in Nancy's room [where] she describes her affinity for mysteries while the player clicks around through a case scrapbook, a game control manual disguised as a book titled How To Be a Detective, and the case file for the current mystery" (Butler, 2017).
+
+
+Figure 3
+Nancy’s desk in Nancy Drew: Danger by Design’s introduction
+  
+
+Note. Screenshot from Nancy Drew: Danger by Design [PC] by HeR Interactive, 2006. Copyright 2006 by HeR Interactive.
+
+
+
+
+The games are set up like most adventure games, with a maze structure "where the players have to find the right path to successfully complete the game" (Egengeldt-Nielsen, Smith and Tosca, 2024). Since these games are point-and-click, they are progressive games where "the player has to perform a predefined set of actions in order to complete the game" (Juul, 2005) and have embedded narratives "where players encounter a world of clues that have to be deciphered in order to find out about the story that has already happened" (Egengeldt-Nielsen, Smith and Tosca, 2024). The games are first-person POV, where the players immerse themselves in Nancy Drew's life. Cooperman (2018) comments on how this first-person POV "might just be an idiosyncrasy of the series, but...definitely lends itself to the company's mission statement of eliminating gender stereotypes and inspiring girls, as there is no concern with the character's appearance."
+
+
+Data Collection and Results
+Each Nancy Drew game was played to completion with noticeable game elements about story, gameplay, and game mechanics tracked in an Excel spreadsheet. Noticeable repetitive game elements were highlighted in yellow. Positive drastic changes were highlighted in green, while negative ones were highlighted in red. Playtimes were tracked for each game, which surprisingly aided in pointing out the games with large amounts of dialogue. I had some reservations that my previous playthroughs of these games would create unnecessary bias and a personal misinterpretation of elements. However, those previous playthroughs aided the data collection period, as puzzles and other mechanics were less distracting. Personal written notes from previous playthroughs aided in quick playtimes.
+The results are both surprising and not at the same time. There are many noticeable repeating game elements among the thirty-five games. Repetitive storyline tropes include hauntings, thefts, disappearances, generational trauma, and "cases that police officers wouldn't care about" (Butler, 2017). In many games, the other characters open up to Nancy easily and willingly provide her with information without too much provoking or sidequests. Characters are designed with well-formed backstories and non-repetitive personalities. Players become closely acquainted with some of Nancy's close circle throughout the games, such as Bess Marvin, George Fayne, Ned Nickerson, and The Hardy Boys. These characters are typically only one phone call away, providing the player with helpful hints and prods to advance the narrative, which creates a good balance of not forcefully pushing the narrative too much so that it affects the plot (Egengeldt-Nielsen, Smith and Tosca, 2024). Almost every game begins and ends with a letter or journal entry from Nancy detailing the "who," "what," and "how/why" of the case (Egengeldt-Nielsen, Smith and Tosca, 2024).
+There are many repetitive game mechanics in all of the games. Other than the point-and-click interface, some noteworthy mechanics are the teaching mechanics, such as pages from books the player can read, second chances, and, lastly, Nancy prompting the players when they can or cannot complete an action ("I shouldn't do that right now," "I need something to make this work," "That outta do it."). 
+
+
+Figure 4
+Screenshot featuring a prompt from Nancy to the player in Nancy Drew: Secret of Shadow Ranch  
+Note. Screenshot from Nancy Drew: Secret of Shadow Ranch [PC] by HeR Interactive, 2004. Copyright 2004 by HeR Interactive.
+
+
+The most annoying mechanic that is repeatedly used involves fetch gameplay, where longtime players like Michael Gray (AKA Arglefumph: The Nancy Drew Dude on YouTube) say, "It's like doing a chore for a chore, chore, chore" (Arglefumph, 2022).
+
+
+Figure 5
+Prompt from Nancy to the player in Nancy Drew: Curse of Blackmoor Manor
+Note. Screenshot from Nancy Drew: Curse of Blackmoor Manor [PC] by HeR Interactive, 2004. Copyright 2004 by HeR Interactive.  
+
+
+Some of the best mechanics include Nancy's journal, task list, and inventory. These allow players to keep track of observations, suspects, things to do, and items available for either use or view. However, the most engaging mechanics are the puzzle mechanics. These allow players to solve brainteasers, pattern recognition puzzles, or decode cryptic messages. Solving a puzzle will reward the player for an item, information, or cutscene. Later games added mechanics such as the Hint System, trophies, and collectibles like phone charms and 'physical' easter eggs.
+
+
+Figure 6
+Decoding Egyptian hieroglyphs in Nancy Drew: Tomb of the Lost Queen  
+Note. Screenshot from Nancy Drew: Tomb of the Lost Queen [PC] by HeR Interactive, 2012. Copyright 2012 by HeR Interactive.
+Figure 7
+Timeline of significant game elements and events in the Nancy Drew PC series  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Note: Created by data collected during the playthrough of all thirty-five Nancy Drew PC games for this research project.
+
+
+Due to repetitive game mechanics, many repeating gameplay elements exist in the Nancy Drew PC games. Players click to navigate different environments such as forests, museums, or secret passages. In games such as Nancy Drew: Ghost Dogs at Moon Lake (2002), Nancy Drew: Danger on Deception Island (2003), and Nancy Drew: Secret of the Old Clock (2005), players use a flashlight to navigate dark, secret tunnels to, typically, reach a clue-filled area. Like most point-and-click adventures, interactive objects in the environment allow players to investigate, collect, or manipulate items to solve puzzles or gain clues. Players also must choose between dialogue options when speaking to various characters during casual interrogations, such as in Nancy Drew: The Haunted Carousel (2003), where Nancy questions amusement park employees to figure out who is sabotaging the rides. Kremers (2009) notes that "depending on the type of puzzle employed, the level designer can directly influence the pacing of a level in order to break up the gameplay."
+
+
+The Rise of the Adventure Genre: A Golden Age (1980s-1990s)
+Before there were point-and-click adventure games, there were text adventures. The kick-off to the adventure game genre was the first adventure game, Colossal Cave Adventure (1976), a text-based interaction fiction game created by Will Crowther. This game was soon followed by the text-adventure Zork (1980), a knock-off of Colossal Cave Adventure. Zork was such a knock-out success that it became the catalyst that popularized the adventure genre. However, both Zork and Colossal Cave Adventure laid the groundwork for interactive storytelling. Other games, like the first graphical adventure game, Mystery House (1980), soon flooded the market. Mystery House was a marvel for this period, incorporating interactive fiction and simple graphics. The late 1980s and early 1990s are known as the golden age of point-and-click games, with developers like LucasArts and Sierra On-Line creating iconic titles such as Maniac Mansion (1987), The Secret of Monkey Island (1990), and King's Quest VI: Heir Today, Gone Tomorrow (1992). Their witty dialogue, memorable characters, and sometimes elaborate puzzles are still celebrated today with a loyal fanbase.
+Advances in PC development created opportunities for richer graphics and sound and more immersive virtual environments, which led to the creation of one of the most influential point-and-click adventure games, Myst (1993). Myst had impressive graphics for the time and was a commercial success despite its lack of action; a puzzle-rich game that was made to appeal to a broad audience and was a hit among females (Lebowitz & Klug (2011). Its large female audience surprised the video game industry since its audience was male-dominated, so "publishers began to cut their losses and curb their less-profitable, less-macho titles" (Adkins, 2017). However, it was not until 1998 that the 'gamer-girl' era began. Coincidentally, this is when HeR Interactive released its first Nancy Drew game, Nancy Drew: Secrets Can Kill (1998). While this game did not coincide with the golden age for point-and-click adventure games, it did coincide with the late-1990s gamer-girl boom. The video game industry started exploring a market geared towards female gamers by creating games with less action and fast-paced gameplay and more story-driven linear games with less sexualized female leads, allowing female players a sense of autonomy (Braithwaite, 2018; Shook, 2018). "For many, Nancy Drew's appeal rests less on her gender and more on exploring, investigating, and eventually unmasking the murderer" (Braithwaite, 2018)
+Since Nancy Drew: Secrets Can Kill is HeR Interactive's first game, the company was still figuring out the look of the games. For this game, HER shifted from point-and-click gameplay featuring live-action actors and footage, such as McKenzie & Co. (1995), and instead used 2D characters amongst 3D surroundings (Braithwaite, 2018). Since the game is in the first-person POV, it allows immersion for players (Starks, Jones, and Katsikitis, 2014). However, the stark difference between the 2D characters and their 3D backgrounds took away from that immersion, which is most likely why HER switched to 3D character models for the second game, Stay Tuned for Danger (1999).
+
+
+Figure 8
+Cutscene with 3D character models and environment in Nancy Drew: Stay Tuned For Danger  
+Note. Screenshot from Nancy Drew: Stay Tuned for Danger [PC] by HeR Interactive, 1999. Copyright 1999 by HeR Interactive.
+
+
+While the combination of 3D characters and surroundings worked well in Stay Tuned for Danger, the game mechanics were off. The most notable issue occurs if the player does not pick up a pair of wire cutters hidden under a map in the prop room of the WWB (Worldwide Broasting) studio. Picking up this item is necessary for cutting the wires of a tape player bomb later in the game. If the player tries to leave the room with the bomb in it to go find the wire cutters, the bomb explodes, and they must click on the "Second Chance" icon on the main 
+
+
+Figure 9
+Cutscene of tape recorder bomb exploding in Nancy Drew: Stay Tuned for Danger
+  
+Note. Screenshot from Nancy Drew: Stay Tuned for Danger [PC] by HeR Interactive, 1999. Copyright 1999 by HeR Interactive.
+
+
+screen. This broken mechanic was incredibly frustrating for players, especially if they had not saved their game progress for a while, as it forced them to replay a large portion of the game (Arglefumph, 2022). Had the developers not allowed the game to progress to the bomb defusing until the wire cutters were found, this would not have been an issue. 
+Opposite this, the player cannot trigger the confrontation with the villain unless they have looked at each piece of paper in the villain's briefcase. This bad mechanic caused issues during the playthrough of this game for this paper because one of the pieces of paper the player must click on is a cheque right beside the back button and is easy to miss. Frustration with this bad mechanic is echoed across Reddit r/nancydrew, with users saying that "there's spots it just feels like the game is stuck because of how finicky some of the hotspot are" (beans7018, 2024) and that "the hotspots are very annoying on a few things (like the check in Dwayne's briefcase). It felt like Nancy Drew games in their truest form" (HappyImagineer, 2024).
+
+
+The Fall of Adventure Games: A Genre in Decline (2000s)
+By the late 1990s, the gaming industry had shifted away from adventure games. So began the rise of the action genre with games such as first-person shooters (Doom (1993), Half-Life (1998)) and real-time strategy games (Command & Conquer (1995), StarCraft (1998)). With its fast, dynamic gameplay, this genre drew players away from slower-paced point-and-click adventures (Egengeldt-Nielsen, Smith, and Tosca, 2024). The transition from 2D to 3D graphics also created challenges for many point-and-click game developers. Even with attempts, such as Grim Fandango (1998), with its 3D environments, the genre's traditional mechanics were out of place in a 3D-dominated market (Kremers, 2009). Additionally, the high cost of production for these games could not be warranted with decreasing sales. Developers thus shifted towards a more profitable genre, leaving point-and-click games and the adventure genre in the shadows (Kremer, 2009; Adkins, 2017).
+While the adventure genre declined, HeR Interactive thrived during this period and had its golden age. Their first commercial success was in 2000 with Nancy Drew: Message in a Haunted Mansion (Milici, 2021). This game was pivotal for HER and incorporated many new elements. It is the first game in this series to include a notebook that automatically keeps track of clues for the player (Starks, Jones, and Katsikitis, 2014). It is also the first game to include a time mechanic where the player can change the time of day by setting the alarm clock on the bedside table of the room they are staying. This mechanic allows the player to snoop around the workstations and rooms of the other characters when they are out or off the clock. The player knows when to set the alarm clock because the characters have a work schedule in the house's dining room. Message in a Haunted House is the first game where Nancy does not change locations. The entire game occurs within a San Francisco house that is going through renovations to be a Bed and Breakfast.
+
+
+Figure 10
+  
+Cutscene in Nancy Drew: Message in a Haunted Mansion
+Note. Screenshot from Nancy Drew: Message in a Haunted Mansion [PC] by HeR Interactive, 2000. Copyright 2000 by HeR Interactive.
+
+
+This series' popularity also comes from its edutainment value since each game has a unique setting and plot that is both educational and entertaining. Cooperman (2018) recollects playing the Nancy Drew PC games, saying, "I have learned everything from French words and phrases, to horse grooming and care, to how to dust for fingerprints. The installments never fail to teach me something new." Interest in the games may also have stemmed from YouTubers such as Michael Gray, AKA Arglefumph: The Nancy Drew Dude, as he is known on YouTube. Arglefumph's first Nancy Drew video is part one of a gaming walkthrough series for Nancy Drew: Legend of the Crystal Skull (2007). He is well-known in the Nancy Drew gaming world, with almost every player having watched one of his walkthroughs or reviews of the games. Streamers like Arglefumph highlight these games' charm and wit while reflecting on negative gameplay experiences, thus creating a circle of trust between themselves and their viewers. Commentators like him also have a more prominent public voice when discussing the pros and cons of the Nancy Drew series, like when new mechanics are implemented in the games. For example, Secret of Shadow Ranch had a new look at the inventory, which was hard to navigate. The mechanics were done so poorly that it is mentioned multiple times in Arglefumph's 5-minute review of this game (Arglefumph, 2022). Luckily, the next game fixed the annoyance of constantly clicking into the inventory, grabbing an item, and exiting the inventory screen without accidentally putting the item back into the inventory.
+HeR Interactive gained a loyal fanbase during this heyday because of its strong storytelling, engaging gameplay, and solid mechanics. Games like The Secret of Shadow Ranch and Danger on Deception Island had themes that ranged from historical Western romance intrigue to ecological preservation. Despite technological shortcomings, the series' commitment to narrative and atmosphere has remained its strongest asset, minus some titles that leaned on predictable plot structures. Additionally, character interactions lacked the emotional depth seen in newer narrative-driven titles.
+
+
+The Resurgence of the Adventure Genre: Nostalgia and Innovation (2010s-Present)
+Loyalty towards the adventure genre never died, but with AAA video game companies deciding what to make and release, the complete revival of this genre never stood a chance until the 2010s. However, popular adventure genre games "were being remade,  often  by  fans,  resulting  in  graphically  updated  versions  of  King's Quest  (remade  in  2001),  Maniac  Mansion  (2004),  The  Secret  of  Monkey  Island (2009), and others" (Egengeldt-Nielsen, Smith, and Tosca, 2024), many of which were created singlehandedly by Telltale Games (Lebowitz & Klug, 2011). However, even with fans going wild over these remakes, they still were not enough to gain interest from big developers to come back to traditional adventure formats (Simon, Jonas, Susana, 109). It was not until the rise of indie game development in the 2010s that point-and-click games resurged. Platforms like Steam and crowdfunding sites like Kickstarter provided smaller studios a space to create and distribute point-and-click games without AAA studios.
+Nostalgia has also been a driving factor in the genre's comeback. Players who grew up with classic titles wanted similar experiences, which fueled demand for remastered versions and their successors. Remasters of Grim Fandango (2015) and Day of the Tentacle (2016) introduced these classics to new audiences while satisfying longtime fans. Modern tools and engines made it easier to create point-and-click games with more polished graphics and game mechanics. Developers now use engines like Unity and Adventure Game Studio to craft point-and-click games with high production values yet modest budgets (Milici, 2021). Unlike many modern genres, point-and-click games prioritize narrative gameplay over reflex-based gameplay, making them accessible to a broad audience (Kramers, 2009; Lebowitz & Klug, 2011).
+Opposite to the rejuvenation of point-and-click adventures, the Nancy Drew series declined in popularity and appeal. While other franchises embraced modern graphics and open-world exploration, the Nancy Drew games kept their pre-rendered visuals and static mechanics. Story and puzzles had become noticeably less important to the developers. Youtuber Arglefumph noted how Nancy Drew: Ransom of the Seven Ships has puzzles that "just make you want to throw your computer out the window" (Arglefumph, 2022) and how Nancy Drew: Ghost of Thornton Hall (2013) had a to-do list was useless and "needed an upgrade" (Arglefumph, 2022). He also had complaints about the dialogue in Nancy Drew: The Shattered 
+
+
+Figure 11
+  
+Deadend conversation with Patrick in Nancy Drew: The Shattered Medallion
+Note. Screenshot from Nancy Drew: The Shattered Medallion [PC] by HeR Interactive, 2014. Copyright 2014 by HeR Interactive.
+
+
+Medallion (2014) and Nancy Drew: Labyrinth of Lies (2014), saying that if HER redid all the dialogue in both games, they would be a lot better because "that's how terrible the dialogue is" (Arglefumph, 2022).
+Another major factor was the transition to the Unity engine for Nancy Drew: Midnight in Salem, which resulted in significant delays and a loss of trust among fans. The four-year gap following Nancy Drew: Sea of Darkness (2015) made it clear that HeR Interactive struggled to adapt to a new game engine. HER's new CEO decided to cut many positions and began outsourcing work to save costs (Arglefumph, 2022; Milici, 2021). Fans criticized Midnight in Salem for its inconsistent graphics, loss of traditional point-and-click mechanics, and minimal 
+
+
+Figure 12
+Bad graphics in Nancy Drew: Midnight in Salem  
+Note. Screenshot from Nancy Drew: Midnight in Salem [PC] by HeR Interactive, 2019. Copyright 2019 by HeR Interactive.
+
+
+puzzles. However, not everything went downhill. The dedicated fanbase was crucial in keeping the series alive during its hiatus. While Midnight in Salem received much criticism, fans were still holding out. One Reddit user went so far as to state, "It's a dumpster fire, but it's our dumpster fire" (snuggleouphagus, 2019). 
+However, the Nancy Drew series began prioritizing story elements again in Midnight in Salem with themes of social justice and historical erasure. Fans could also rejoice in some of the good times in the recent games, such as the addition of mechanics like Fast Convo in Ghost of Thornton Hall, which allowed players to fast-forward through dialogue. Although HER may not have adequately solved a widespread fan complaint smartly since fans complained that there was too much dialogue and it should be skimmed down, not that it should be skippable, it was better than nothing. Some more recent games during this time also offered alternative endings for the villain(s) depending on the player's choice. Ghost of Thornton Hall has three alternative endings, with Arglefumph (2022) noting that "some of them are really dark" because the player can save only Nancy from a fire and not aid other characters.
+
+
+New Life for HeR Interactive? (2019-Present)
+HeR Interactive might still make a comeback if it continues making games like its 2024 release, Nancy Drew: Secret of the Seven Keys. Though the game's playthrough is long, it balances story, gameplay, and mechanics well. However, some mechanics are missing, such as the lack of any indication that Nancy is being stalked in the underground tunnels by a shadowy entity. The player only realizes they are being stalked once attacked and taken to the Second Chance screen.
+However, compared to Midnight in Salem, this game holds up to the standards set by the 1998 to 2010 games. The story in and of itself is memorable, as are the characters, who all have "a nuanced backstory and unique personality, all evidenced by the rich dialogue present in each 
+
+
+Figure 13
+A shadowy figure stalks Nancy in the underground tunnels of Prague in Nancy Drew: Mystery of the Seven Keys
+Note. Screenshot from Nancy Drew: Mystery of the Seven Keys [PC] by HeR Interactive, 2024. Copyright 2024 by HeR Interactive.  
+
+
+game" (Cooperman, 2018). Even if the graphics were not as memorizing as they are, and they are, Mystery of the Seven Keys would still hold up because players can see how much thought went into its creation. The attention to detail in the graphics is incredible. Arglefumph (2022) says in his review video of the game that "people have been sharing pictures of how accurate it is, like, that's what the actual courtyard looks like, both of the courtyards." However, the repetitive, non-interactable NPCs that stare into the player's soul are incredibly off-putting, even with great graphics.
+Rejuvenated interest in the games occurred during the COVID-19 pandemic. Perhaps this was in part due to The CW's Nancy Drew TV series or HER's decision to make the game digitally available through Steam "so memories are but a click away," but whatever it was, HER had a good year in 2020 (Alm, 2022; Milici, 2021). Arglefumph's YouTube videos "went from 11,000 views a day to 40,000 a day during the pandemic" (Milici, 2021). The other thing about these games is that even though they are single-player games, many people play them together on the same computer or will use the games "as a connection point by keeping in touch with others as they played and discussing the game" (Starks, Jones, and Katsikitis, 2014). Hope for a 'true' Nancy Drew game was also in the air after the disaster that was Midnight in Salem as Arglefumph was invited by HER to test out Mystery of the Seven Keys and provide feedback (Arglefumph, 2023; perperpewpy, 2023). 
+
+
+Conclusion
+While the Nancy Drew PC games did not correlate with the rise, fall, and resurgence of point-and-click adventure games, this research project still managed to examine both the evolution of the point-and-click genre and a beloved franchise. This project's data collection discussed some of the consistent themes, mechanics, and narrative elements of the Nancy Drew series and noted strengths and areas for improvement. Adding to that, frustrating dialogue and mechanics occasionally distracted players from enjoying the experience of these games, as Reddit users and YouTuber Arglefumph noted. 
+HER's dedication to engaging puzzles and well-developed characters mainly remained consistent over the years, even as HeR Interactive dealt with challenges like outdated mechanics, the Unity engine transition, and the critical reception of Midnight in Salem. The loyalty of its fanbase has kept the series alive all this time. Fans may have more to look forward to if HeR Interactive continues releasing new games. So far, nothing is in the works, but fans are still holding out since it has been less than a year since Mystery of the Seven Keys' release, and it took longer to announce it after Midnight in Salem.
+HER's popularity might come back if it balances modern innovations with the charm and complexity that define classic Nancy Drew games while staying true to its core identity. Whether introducing new mechanics, reimagining visuals, or returning to narrative-driven gameplay, the Nancy Drew PC games suggest that the allure of exploration, mystery, and problem-solving are still in demand. Here, we hope the Nancy Drew PC series will continue attracting loyal fans and new audiences for years as the adventure genre finds its place in the modern gaming industry.
+
+
+________________
+
+
+References
+Adkins, J. (2017, July 28) What happened to the women who built the video game industry? 
+MIC. 
+https://www.mic.com/articles/182786/women-in-video-games-history-roberta-williams-lori-
+\cole-sierra-games
+Alm, R. (2022, September 11). Sisters in mystery: An ode to the Nancy Drew PC games. 
+SuperJump. 
+https://www.superjumpmagazine.com/drafting-sisters-in-mystery-an-ode-to-the-nancy-dre
+w-pc-games/
+Arglefumph: The Nancy Drew Dude. (2022, August 2). Testing Nancy Drew: Mystery of the 
+Seven Keys [Video]. YouTube.
+https://www.youtube.com/watch?v=qrZcnM-ddmQ&list=PL-BD_KjCUmdwPl9QRjm0nE22
+xScYCuuCy&index=37&ab_channel=Arglefumph%3ATheNancyDrewDude
+Arglefumph: The Nancy Drew Dude. (2023, October 13). Nancy Drew Games - Five-Minute 
+Review Compilation [Video]. YouTube. 
+https://www.youtube.com/watch?v=29QfVMInJMY&ab_channel=Arglefumph%3ATheNan
+cyDrewDude
+Ballou, E. (2018, November 6). The case of the disappearing Nancy Drew video games. Kotaku. 
+https://kotaku.com/the-case-of-the-disappearing-nancy-drew-video-games-1830256040
+beans7018. (2024). Stay tuned for danger (weekly discussion) [Online forum post]. Reddit. 
+https://www.reddit.com/r/nancydrew/comments/1dpfye9/stay_tuned_for_danger_weekly_
+discussion/
+Braithwaite, A. (2018). Nancy Drew and the case of girl games. In K. L. Gray & D. J. Leonard 
+(Eds.), Woke gaming: Digital challenges to social justice. University of Washington Press.
+Butler, M. (2017, December 26). Cozing gaming: How tropes enhance Nancy Drew gameplay. 
+Sidequest. 
+https://sidequest.zone/2017/12/26/cozy-gaming-how-tropes-enhance-nancy-drew-gameplay/
+Cooperman, K. (2018, April 1). The Nancy Drew computer games: A feminist, empowering, and 
+intellectual series. The Female Gaze. 
+https://thefemalegaze.org/2018/04/01/the-nancy-drew-computer-games-a-feminist-empo
+wering-and-intellectual-series/
+Egengeldt-Nielsen, S., Smith, J. H. & Tosca, S. P. (2024). Understanding video games: The 
+essential introduction. Routledge. https://doi.org/10.4324/9781003274995
+HappyImagineer. (2024). [Comment on the online forum post Stay tuned for danger (weekly 
+discussion).]. Reddit. 
+https://www.reddit.com/r/nancydrew/comments/1dpfye9/stay_tuned_for_danger_weekly_
+discussion/
+HeR Interactive. (1998). Nancy Drew: Secrets can kill [PC]. DreamCatcher Games. 
+HeR Interactive. (1999). Nancy Drew: Stay tuned for danger [PC]. DreamCatcher Games. 
+HeR Interactive. (2000). Nancy Drew: Message in a haunted mansion [PC]. DreamCatcher 
+Games. 
+HeR Interactive. (2001). Nancy Drew: Treasure in the royal tower [PC]. DreamCatcher Games. 
+HeR Interactive. (2001). Nancy Drew: The final scene [PC]. DreamCatcher Games. 
+HeR Interactive. (2002). Nancy Drew: Secret of the scarlet hand. PC. DreamCatcher Games.
+HeR Interactive. (2002). Nancy Drew: Ghost dogs of moon lake [PC]. DreamCatcher Games. 
+HeR Interactive. (2003) Nancy Drew: The haunted carousel [PC]. DreamCatcher Games. 
+HeR Interactive. (2003). Nancy Drew: Danger on deception island [PC]. DreamCatcher Games. 
+HeR Interactive. (2004). Nancy Drew: Secret of shadow ranch [PC]. DreamCatcher Games. 
+HeR Interactive. (2004). Nancy Drew: Curse of blackmoor manor[PC]. DreamCatcher Games. 
+HeR Interactive. (2005). Nancy Drew: Secret of the old clock [PC]. DreamCatcher Games. 
+HeR Interactive. (2005). Nancy Drew: Last train to blue moon canyon [PC]. DreamCatcher 
+Games. 
+HeR Interactive. (2006). Nancy Drew: Danger by design [PC]. DreamCatcher Games. 
+HeR Interactive. (2006). Nancy Drew: The creature of kapu cave [PC]. DreamCatcher Games. 
+HeR Interactive. (2007). Nancy Drew: The white wolf of icicle creek [PC]. HeR Interactive.
+HeR Interactive. (2007). Nancy Drew: The legend of the crystal skull [PC]. HeR Interactive.
+HeR Interactive. (2008). Nancy Drew: The phantom of venice [PC]. HeR Interactive.
+HeR Interactive. (2008). Nancy Drew: The haunting of castle malloy [PC]. HeR Interactive.
+HeR Interactive. (2009). Nancy Drew: Ransom of the seven ships [PC]. HeR Interactive.
+HeR Interactive. (2009). Nancy Drew: Warnings at waverly academy [PC]. HeR Interactive.
+HeR Interactive. (2010). Nancy Drew: Trail of the twister [PC]. HeR Interactive.
+HeR Interactive. (2010). Nancy Drew: Secrets can kill remastered [PC]. HeR Interactive.
+HeR Interactive. (2010). Nancy Drew: Shadows at the water’s edge [PC]. HeR Interactive.
+HeR Interactive. (2011). Nancy Drew: The captive curse [PC]. HeR Interactive.
+HeR Interactive. (2011). Nancy Drew: Alibi in ashes [PC]. HeR Interactive.
+HeR Interactive. (2012). Nancy Drew: Tomb of the lost queen [PC]. HeR Interactive.
+HeR Interactive. (2012). Nancy Drew: The deadly device [PC]. HeR Interactive.
+HeR Interactive. (2013). Nancy Drew: The ghost of thornton hall [PC]. HeR Interactive.
+HeR Interactive. (2013). Nancy Drew: The silent spy [PC]. HeR Interactive.
+HeR Interactive. (2014). Nancy Drew: The shattered medallion [PC]. HeR Interactive.
+HeR Interactive. (2014). Nancy Drew: Labyrinth of lies [PC]. HeR Interactive.
+HeR Interactive. (2015). Nancy Drew: Sea of darkness [PC]. HeR Interactive.
+HeR Interactive. (2019). Nancy Drew: Midnight in salem [PC]. HeR Interactive.
+HeR Interactive. (2024). Nancy Drew: Mystery of the seven keys [PC]. HeR Interactive.
+Herold, C. (2000, November 23). Game theory: Prowling and spying with Nancy Drew, the 
+un-Barbie. The New York Times. 
+(https://www.nytimes.com/2000/11/23/technology/game-theory-prowling-and-spying-with-
+nancy-drew-the-un-barbie.html
+Juul, J. (2005). Half-real: Video games between real rules and fictional worlds. MIT Press. 
+Kremers, R. (2009). Level design: Concept, theory, and practice. CRC Press. 
+Lebowitz, J. & Klug, C. (2011). Interactive storytelling for video games: A player-centered approach to creating memorable characters and stories. Focal Press.
+Milici, L. B. (2021, September 16). Origin story: The ‘Nancy Drew’ PC games. Fandom. 
+https://www.fandom.com/articles/origin-story-nancy-drew
+perperpewpy. (2023) Arglefumph: The Nancy Drew Dude posted that he was flown out to 
+test-play the new game! [Online forum post]. Reddit. 
+https://www.reddit.com/r/nancydrew/comments/176zxft/arglefumph_the_nancy_drew_dud
+e_posted_that_he_was/
+Rollings, A. & Adams, E. (2003). Andrew Rollings and Ernest Adams on game design. New 
+Riders. 
+Shook, S. (2018). Playing like a girl: Establishing a virtual female social position through 
+discourse building tasks. Ohio Communication Journal, 56, 106-119.
+snuggleouphagus. (2019) [Nancy Drew Games] It's a Dumpster Fire. But it's Our Dumpster Fire 
+[Online forum post]. Reddit. 
+https://www.reddit.com/r/HobbyDrama/comments/e8tb2e/nancy_drew_games_its_a_dum
+pster_fire_but_its_our/
+Starks, K., Jones, C. & Katsikitis, M. (2014). GameChange(H)er: How Nancy Drew video games 
+build strong girls. BCS Human Computer Interaction Conference (HCI 2014), Southport, 
+UK. doi:10.14236/ewic/HCI2014.17
+WizardKitten. (2022, November 30). A Deep Dive into the Nancy Drew PC Game User 
+Interfaces (UI) [Video]. Youtube. 
+https://www.youtube.com/watch?v=rTLLFEWSFUU&ab_channel=WizardKitten
