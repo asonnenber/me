@@ -4,9 +4,11 @@ excerpt: ""
 
 collection: portfolio
 ---
-<iframe src="https://github.com/asonnenber/me/blob/57818d6ba1e81c5cf03ac5bc6aee6d0acf7d3ae6/files/DH%20900%20Capstone%20Fall%202024.pdf"></iframe>
+<iframe src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf"></iframe>
 
-<a href="https://github.com/asonnenber/me/blob/57818d6ba1e81c5cf03ac5bc6aee6d0acf7d3ae6/files/DH%20900%20Capstone%20Fall%202024.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" target="_blank">PDF.</a>
 
 [pdf](<embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
+
+<embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />
 
