@@ -8,4 +8,4 @@ collection: portfolio
 ![Screenshot 2025-04-23 010157](https://github.com/user-attachments/assets/2da8e4b9-175f-4618-996c-2827876944b3)
 
 
-Click [here](https://asonnenber.github.io/wstcftcj/)) if you're interested in finding out who stole the cookies. 
+Click [here](https://asonnenber.github.io/wstcftcj/) if you're interested in finding out who stole the cookies. 
