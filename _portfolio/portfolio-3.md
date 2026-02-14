@@ -6,7 +6,8 @@ collection: portfolio
 ---
 
 
-![books_quest.png](/images/books_quest.png)
+![books_quest.png](https://github.com/asonnenber/me/blob/master/images/books_quest.png?raw=true)
 
+This was such a labour of love and I still can't believe I finished it.
 
 Available on [itch.io](https://sonnywithana.itch.io/books-quest) for free.
