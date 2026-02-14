@@ -4,18 +4,13 @@ excerpt: ""
 
 collection: portfolio
 ---
-[DH-900-Capstone-Fall-2024.pdf](<iframe src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf"></iframe>)
-
-<iframe src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf"></iframe>
-
-![DH 900] (<a href="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" target="_blank">PDF.</a>)
-<a href="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" target="_blank">PDF.</a>
 
 [pdf](<embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
 
-<embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />
 
-[DH-900-Capstone-Fall-2024.pdf[(<object data="files/DH-900-Capstone-Fall-2024.pdf" width="1000" height="1000" type='application/pdf'/>)
+[pdf](<embed src="files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
 
-<object data="files/DH-900-Capstone-Fall-2024.pdf" width="1000" height="1000" type='application/pdf'/
+
+[pdf](<embed src="https://github.com/asonnenber/me/blob/afd087a13a899acd1015dc72992512169f1f60e6/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
+
 
