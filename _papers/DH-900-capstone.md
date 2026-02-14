@@ -4,5 +4,5 @@ excerpt: ""
 
 collection: portfolio
 ---
-[View the pdf here.](https://github.com/asonnenber/me/blob/d19bc23975963008ac9c0303106ef9be50e5dc5e/files/DH%20900%20Capstone%20Fall%202024.pdf)
+[View the pdf here.]<iframe src="https://github.com/asonnenber/me/blob/57818d6ba1e81c5cf03ac5bc6aee6d0acf7d3ae6/files/DH%20900%20Capstone%20Fall%202024.pdf" width="100%" height="500px"></iframe>
 
