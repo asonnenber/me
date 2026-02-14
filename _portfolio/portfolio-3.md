@@ -9,4 +9,4 @@ collection: portfolio
 ![books_quest.png](https://github.com/asonnenber/me/blob/bc6c0d53aa059b1cbe6e5678f7d5345472533558/images/books_quest.png)
 
 
-Click [here] to download the file. 
+Available on [itch.io](https://sonnywithana.itch.io/books-quest) for free.
