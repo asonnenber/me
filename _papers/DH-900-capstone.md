@@ -6,6 +6,9 @@ collection: portfolio
 ---
 [DH-900-Capstone-Fall-2024.pdf](<iframe src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf"></iframe>)
 
+<iframe src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf"></iframe>
+
+![DH 900] (<a href="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" target="_blank">PDF.</a>)
 <a href="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" target="_blank">PDF.</a>
 
 [pdf](<embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
@@ -13,4 +16,6 @@ collection: portfolio
 <embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />
 
 [DH-900-Capstone-Fall-2024.pdf[(<object data="files/DH-900-Capstone-Fall-2024.pdf" width="1000" height="1000" type='application/pdf'/>)
+
+<object data="files/DH-900-Capstone-Fall-2024.pdf" width="1000" height="1000" type='application/pdf'/
 
