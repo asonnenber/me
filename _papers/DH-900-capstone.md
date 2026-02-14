@@ -6,15 +6,4 @@ paperurl: 'https://asonnenber.github.io/me/files/DH-900-Capstone-Fall-2024.pdf'
 collection: portfolio
 ---
 
-[pdf](<embed src="https://asonnenber.github.io/me/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
-
-
-[pdf](<embed src="files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
-
-paperurl: 'https://asonnenber.github.io/me/files/DH-900-Capstone-Fall-2024.pdf'
-
-paperurl: 'https://github.com/asonnenber/me/blob/afd087a13a899acd1015dc72992512169f1f60e6/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf'
-
-[pdf](<embed src="https://github.com/asonnenber/me/blob/afd087a13a899acd1015dc72992512169f1f60e6/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
-
 
