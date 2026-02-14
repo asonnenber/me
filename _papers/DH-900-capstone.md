@@ -4,11 +4,13 @@ excerpt: ""
 
 collection: portfolio
 ---
-<iframe src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf"></iframe>
+[DH-900-Capstone-Fall-2024.pdf](<iframe src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf"></iframe>)
 
 <a href="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" target="_blank">PDF.</a>
 
 [pdf](<embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />)
 
 <embed src="https://github.com/asonnenber/me/blob/master/files/DH-900-Capstone-Fall-2024.pdf" type="application/pdf" />
+
+[DH-900-Capstone-Fall-2024.pdf[(<object data="files/DH-900-Capstone-Fall-2024.pdf" width="1000" height="1000" type='application/pdf'/>)
 
