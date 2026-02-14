@@ -230,6 +230,6 @@
   .cv-project-keyword,
   .cv-interest-keyword {
     border: 1px solid #ccc;
-    background-color: transparent;
+    background-color: #fefae0;
   }
 }
