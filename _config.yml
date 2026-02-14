@@ -277,7 +277,7 @@ defaults:
   # _papers
   - scope:
       path: ""
-      type: talks
+      type: papers
     values:
       layout: talk
       author_profile: true
