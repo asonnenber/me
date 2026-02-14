@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 
-![files/books_quest.png](https://github.com/asonnenber/me/blob/3ea962647551ffae902d0d6765c4f6dadfeb1725/files/books_quest.png)
+![books_quest.png](images/books_quest.png)
 
 
 Click [here] to download the file. 
