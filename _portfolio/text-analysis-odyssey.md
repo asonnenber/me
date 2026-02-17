@@ -17,7 +17,7 @@ Perhaps I view certain characters in the Odyssey differently than others due to 
 
 ![penelope-words](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/odyssey/penelope-words-odyssey.png?raw=true)
 
-The project is availble in a Spyral Notebook [here](https://voyant-tools.org/spyral/asonnenber@gh/mEcDFh/).
+The project is available in a Spyral Notebook [here](https://voyant-tools.org/spyral/asonnenber@gh/mEcDFh/).
 
 If the codes are not running accordingly, please press the double arrow in the top-right corner. 
 
