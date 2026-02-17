@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 
-![books_quest.png](https://github.com/asonnenber/me/blob/master/images/books_quest.png?raw=true)
+![books_quest.png](asonnenber.io/github/books_quest.png)
 
 This was such a labour of love and I still can't believe I finished it.
 
