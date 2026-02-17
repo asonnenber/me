@@ -8,7 +8,9 @@ collection: portfolio
 ---
 
 
-![books_quest.png](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/bq/books_quest.png?raw=true)
+![jungle-book-bq.png](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/bq/jungle-book-bq.png?raw=true)
+
+![firehouse-bq.png](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/bq/firehouse-bq.png?raw=true)
 
 This was such a labour of love and I still can't believe I finished it.
 
