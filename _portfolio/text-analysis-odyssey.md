@@ -16,4 +16,5 @@ I really wanted to work on a project that combined both my undergrad and grad sc
 
 The project is availble in a Spyral Notebook [here](https://voyant-tools.org/spyral/asonnenber@gh/mEcDFh/).
 
-If the codes are not running accordingly, please press the double arrow in the top-right corner. ![run-all-codes](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/odyssey/run-all-codes.png?raw=true)
+If the codes are not running accordingly, please press the double arrow in the top-right corner. 
+![run-all-codes](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/odyssey/run-all-codes.png?raw=true)
