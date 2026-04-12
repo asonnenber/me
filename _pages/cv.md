@@ -55,18 +55,18 @@ redirect_from:
 * Gained familiarity with Indigo products and customer service expectations 
 
 ## Technical Skills
-Voyant / Spyral    |    Python    |    SQL    |    GameMaker    |    Ren'Py
-
-Google My Maps|    Excel|    MS Office Suite|    SIRSI Dynix Symphony|    Relais D2D
+Voyant / Spyral    |    Python    |    SQL    |    GameMaker    |    Ren'Py |  Google My Maps|    Excel|    MS Office Suite|    SIRSI Dynix Symphony|    Relais D2D
 
 
 
 ## Volunteer Work 
-
 Taste of Edmonton (2019-Present)
-
 ToE Above and Beyond Award (2024)
-
 Stanley A. Milner Grand Opening (2020)
+
+## Languages
+Native English
+Intermediate Latin 
+Intermediate Ancient Greek
 
 PrideFest (2022-2023)
