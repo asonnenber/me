@@ -13,20 +13,17 @@ redirect_from:
 
 **MA in Digital Humanities**, University of Alberta, Graduated 2025
 * Specialization in Library and Information Studies
-* University of Alberta Elevation Award (2024)
+* University of Alberta Elevation Award (2024, 2025)
 * Member of the Digital Humanities Students Association
 
 **BA in Classics**, University of Alberta, Graduated 2022
 * Linguistics Minor
 * Jason Lang Scholarship (2019, 2020, 2021)
 * Member of the International Golden Key Honors Society’s U of A chapter
-* Volunteer for USchool program
+* Volunteer for the U of A USchool program
 
 **Culinary Arts Diploma**, NAIT, Graduated 2014
-* Food Sanitation and Hygiene certificate
-* Excelled in soups, sauces, baking, garde manger and proteins 
-
-
+* Food Sanitation and Hygiene certificate 
 
 ## Work Experience
 **Materials Handling Clerk**, Edmonton Public Library, September 2015 - Present
