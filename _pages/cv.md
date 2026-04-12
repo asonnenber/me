@@ -57,7 +57,7 @@ redirect_from:
 ## Technical Skills
 Voyant / Spyral    |    Python    |    SQL    |    GameMaker    |    Ren'Py
 
-Google My Maps    |    Excel    |    MS Office Suite    |    SIRSI Dynix Symphony    |    Relais D2D
+Google My Maps|    Excel|    MS Office Suite|    SIRSI Dynix Symphony|    Relais D2D
 
 
 
