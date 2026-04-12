@@ -14,7 +14,7 @@ redirect_from:
 **MA in Digital Humanities**, University of Alberta, Graduated 2025
 * Specialization in Library and Information Studies
 * University of Alberta Elevation Award (2024, 2025)
-* Member of the Digital Humanities Students Association
+* Member of the Digital Humanities Students Association (2024-2025)
 
 **BA in Classics**, University of Alberta, Graduated 2022
 * Linguistics Minor
