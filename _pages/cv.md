@@ -34,10 +34,10 @@ Edmonton Public Library, September 2015 - Present
 **Seasonal Customer Service Representative**, Coles, November 2015 - January 2016 
 
 ## Technical Skills  
-| -------------------- | ------------ | ------------ | ------------ |  
-| Voyant / Spyral      |    Python    |    SQL       |    GameMaker |    
-| Google My Maps       |    Ren'Py    |    Excel     |    MS Office |  
-| SIRSI Dynix Symphony |  Relais D2D  |              |              |  
+  
+ Voyant / Spyral      |    Python    |    SQL       |    GameMaker     
+ Google My Maps       |    Ren'Py    |    Excel     |    MS Office   
+ SIRSI Dynix Symphony |  Relais D2D  |              |                
 
 ## Memberships  
 Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)  
@@ -54,8 +54,8 @@ Intermediate Ancient Greek
 
 ## Volunteer Work    
     
-On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present  
-Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025  
-Various Roles | Edmonton PrideFest | 2022-2023  
-Greeter | Stanley A. Milner Grand Opening | 2020  
-BA Classics Undergrad Q&A Panelist | University of Alberta USchool Program | 2019
+**Taste of Edmonton** | On-Site Assistant & Various Roles | 2019-Present  
+**Digital Humanities Student Association (DHSA)** | Planning Committee Member | 2024-2025  
+**Edmonton PrideFest** | Various Roles | 2022-2023  
+**Stanley A. Milner Grand Opening** | Greeter | 2020  
+**University of Alberta USchool Program** | BA Classics Undergrad Q&A Panelist | 2019
