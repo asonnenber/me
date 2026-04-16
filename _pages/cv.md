@@ -12,15 +12,11 @@ redirect_from:
 ## Education
 **MA in Digital Humanities**, University of Alberta, Graduated 2025
 * Specialization in Library and Information Studies
-* University of Alberta Elevation Award (2024, 2025)
-* Member of the Digital Humanities Students Association (2024-2025)
 
 **BA in Classics**, University of Alberta, Graduated 2022
 * Linguistics Minor
 * Honor's Thesis: "
-* Jason Lang Scholarship (2019, 2020, 2021)
 * Member of the International Golden Key Honors Society’s U of A chapter
-* Volunteer for the U of A USchool program (2019)
 
 **Culinary Arts Diploma**, NAIT, Graduated 2014
 * Food Sanitation and Hygiene certificate 
@@ -44,11 +40,13 @@ redirect_from:
 
 
 ## Memberships
-
+* Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)
+* Member of the Digital Humanities Students Association (2024-2025)
 
 
 ## Awards
-
+* Jason Lang Scholarship (2019, 2020, 2021)
+* University of Alberta Elevation Award (2024, 2025)
 
 
 ## Languages
@@ -60,10 +58,12 @@ Intermediate Ancient Greek
 
 
 ## Volunteer Work 
-Taste of Edmonton (2019-Present)
+On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present
 
-ToE Above and Beyond Award (2024)
+Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025
 
-PrideFest (2022-2023)
+Various Roles | Edmonton PrideFest | 2022-2023
 
-Stanley A. Milner Grand Opening (2020)
+Greeter | Stanley A. Milner Grand Opening | 2020
+
+BA Classics Undergrad Q&A Panelist | University of Alberta USchool Program | 2019
