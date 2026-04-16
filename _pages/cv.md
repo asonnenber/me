@@ -10,11 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Education  
-**MA in Digital Humanities**  
-University of Alberta, Graduated 2025  
+**MA in Digital Humanities, University of Alberta, Graduated 2025**  
 Specialization in Library and Information Studies
 
-BA in Classics, University of Alberta, Graduated 2022  
+**BA in Classics, University of Alberta, Graduated 2022**  
 Linguistics Minor  
 Honor's Thesis: "  
 
