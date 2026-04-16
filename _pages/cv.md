@@ -18,6 +18,7 @@ redirect_from:
 
 **BA in Classics**, University of Alberta, Graduated 2022
 * Linguistics Minor
+* Honor's Thesis: "
 * Jason Lang Scholarship (2019, 2020, 2021)
 * Member of the International Golden Key Honors Society’s U of A chapter
 * Volunteer for the U of A USchool program (2019)
@@ -42,19 +43,26 @@ redirect_from:
 |  SIRSI Dynix Symphony |  Relais D2D  |              |              |
 
 
+## Memberships
+
+
+
+## Awards
+
+
+
+## Languages
+### Native English
+### Intermediate Latin 
+
+Intermediate Ancient Greek
+
 
 ## Volunteer Work 
 Taste of Edmonton (2019-Present)
 
 ToE Above and Beyond Award (2024)
 
-Stanley A. Milner Grand Opening (2020)
-
-## Languages
-###Native English
-
-Intermediate Latin 
-
-Intermediate Ancient Greek
-
 PrideFest (2022-2023)
+
+Stanley A. Milner Grand Opening (2020)
