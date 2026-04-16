@@ -22,7 +22,8 @@ Honor's Thesis: "
 Food Sanitation and Hygiene certificate 
 
 ## Work Experience
-**Materials Handling Clerk**, Edmonton Public Library, September 2015 - Present
+**Materials Handling Clerk**  
+Edmonton Public Library, September 2015 - Present
   
 **Casual Catering Supervisor/Cafeteria Associate**, Captain Con Ltd., October 2008 - July 2024
   
