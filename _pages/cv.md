@@ -51,7 +51,7 @@ Intermediate Latin
 Intermediate Ancient Greek
 
 ## Volunteer Work    
-  
+    
 On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present  
 Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025  
 Various Roles | Edmonton PrideFest | 2022-2023  
