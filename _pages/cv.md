@@ -31,11 +31,11 @@ Food Sanitation and Hygiene certificate
 
 **Seasonal Customer Service Representative**, Coles, November 2015 - January 2016 
 
-## Technical Skills
-| -------------------- | ------------ | ------------ | ------------ |
+## Technical Skills  
+| -------------------- | ------------ | ------------ | ------------ |  
 | Voyant / Spyral      |    Python    |    SQL       |    GameMaker |    
-| Google My Maps       |    Ren'Py    |    Excel     |    MS Office |
-| SIRSI Dynix Symphony |  Relais D2D  |              |              |
+| Google My Maps       |    Ren'Py    |    Excel     |    MS Office |  
+| SIRSI Dynix Symphony |  Relais D2D  |              |              |  
 
 ## Memberships  
 Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)  
