@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-**MA in Digital Humanities**, University of Alberta, Graduated 2025
+## Education  
+**MA in Digital Humanities**, University of Alberta, Graduated 2025  
 * Specialization in Library and Information Studies
 
-**BA in Classics**, University of Alberta, Graduated 2022
+**BA in Classics**, University of Alberta, Graduated 2022  
 * Linguistics Minor
 * Honor's Thesis: "
 * Member of the International Golden Key Honors Society’s U of A chapter
 
-**Culinary Arts Diploma**, NAIT, Graduated 2014
+**Culinary Arts Diploma**, NAIT, Graduated 2014  
 * Food Sanitation and Hygiene certificate 
 
 ## Work Experience
@@ -49,13 +49,13 @@ redirect_from:
 * University of Alberta Elevation Award (2024, 2025)
 
 
-## Languages
+## Languages  
 Native English  
 Intermediate Latin   
 Intermediate Ancient Greek
 
 
-## Volunteer Work  
+## Volunteer Work    
 On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present
 Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025  
 Various Roles | Edmonton PrideFest | 2022-2023  
