@@ -3,7 +3,7 @@ title: "Join Me on My Next Case: Story, Gameplay and Game Mechanics in the Nancy
 excerpt: 
 paperurl: 'https://asonnenber.github.io/me/files/DH-900-Capstone-Fall-2024.pdf'
 
-collection: portfolio
+collection: papers
 ---
 
 
