@@ -11,15 +11,14 @@ redirect_from:
 
 ## Education  
 **MA in Digital Humanities**, University of Alberta, Graduated 2025  
-* Specialization in Library and Information Studies
+Specialization in Library and Information Studies
 
 **BA in Classics**, University of Alberta, Graduated 2022  
-* Linguistics Minor
-* Honor's Thesis: "
-* Member of the International Golden Key Honors Society’s U of A chapter
+Linguistics Minor  
+Honor's Thesis: "  
 
 **Culinary Arts Diploma**, NAIT, Graduated 2014  
-* Food Sanitation and Hygiene certificate 
+Food Sanitation and Hygiene certificate 
 
 ## Work Experience
 **Materials Handling Clerk**, Edmonton Public Library, September 2015 - Present
@@ -38,25 +37,22 @@ redirect_from:
 | Google My Maps       |    Ren'Py    |    Excel     |    MS Office |
 | SIRSI Dynix Symphony |  Relais D2D  |              |              |
 
+## Memberships  
+Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)  
+Member of the Digital Humanities Students Association (2024-2025)
 
-## Memberships
-* Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)
-* Member of the Digital Humanities Students Association (2024-2025)
-
-
-## Awards
-* Jason Lang Scholarship (2019, 2020, 2021)
-* University of Alberta Elevation Award (2024, 2025)
-
+## Awards  
+Jason Lang Scholarship (2019, 2020, 2021)  
+University of Alberta Elevation Award (2024, 2025)
 
 ## Languages  
 Native English  
 Intermediate Latin   
 Intermediate Ancient Greek
 
-
 ## Volunteer Work    
-On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present
+  
+On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present  
 Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025  
 Various Roles | Edmonton PrideFest | 2022-2023  
 Greeter | Stanley A. Milner Grand Opening | 2020  
