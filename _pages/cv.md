@@ -33,10 +33,10 @@ redirect_from:
 **Seasonal Customer Service Representative**, Coles, November 2015 - January 2016 
 
 ## Technical Skills
-|-----------------------|--------------|--------------|--------------|
-|  Voyant / Spyral      |    Python    |    SQL       |    GameMaker |    
-|  Google My Maps       |    Ren'Py    |    Excel     |    MS Office |   
-|  SIRSI Dynix Symphony |  Relais D2D  |              |              |
+-----------------------|--------------|--------------|--------------
+  Voyant / Spyral      |    Python    |    SQL       |    GameMaker     
+  Google My Maps       |    Ren'Py    |    Excel     |    MS Office    
+  SIRSI Dynix Symphony |  Relais D2D  |              |              
 
 
 ## Memberships
@@ -55,8 +55,8 @@ Intermediate Latin
 Intermediate Ancient Greek
 
 
-## Volunteer Work 
-On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present  
+## Volunteer Work  
+On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present
 Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025  
 Various Roles | Edmonton PrideFest | 2022-2023  
 Greeter | Stanley A. Milner Grand Opening | 2020  
