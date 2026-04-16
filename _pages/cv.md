@@ -24,7 +24,7 @@ Food Sanitation and Hygiene certificate
 **Materials Handling Clerk**  
 Edmonton Public Library, September 2015 - Present
   
-**Casual Catering Supervisor/Cafeteria Associate**, Captain Con Ltd., October 2008 - July 2024
+**Casual Catering Supervisor/Cafeteria Associate, Captain Con Ltd., October 2008 - July 2024**
   
 **PC Express Associate**, Superstore, December 2022 - July 2023
 
@@ -34,8 +34,8 @@ Edmonton Public Library, September 2015 - Present
 
 ## Technical Skills  
   
- Voyant / Spyral      |    Python    |    SQL       |   GameMaker  |  Google Workspace      
- Google My Maps       |    Ren'Py    |    MS Office |   Relais D2D |  SIRSI Dynix Symphony  
+Google Workspace     |  MS Office   |  Python    |    SQL   |  Google My Maps     
+SIRSI Dynix Symphony | Relais D2D   |  GameMaker |   Ren'Py |  Voyant / Spyral      
 
 ## Memberships  
 Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)  
