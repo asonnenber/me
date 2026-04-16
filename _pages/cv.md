@@ -37,6 +37,7 @@ redirect_from:
 **Seasonal Customer Service Representative**, Coles, November 2015 - January 2016 
 
 ## Technical Skills
+|-----------------------|--------------|--------------|--------------|
 |  Voyant / Spyral      |    Python    |    SQL       |    GameMaker |    
 |  Google My Maps       |    Ren'Py    |    Excel     |    MS Office |   
 |  SIRSI Dynix Symphony |  Relais D2D  |              |              |
@@ -51,8 +52,9 @@ redirect_from:
 
 
 ## Languages
-### Native English
-### Intermediate Latin 
+Native English
+
+Intermediate Latin 
 
 Intermediate Ancient Greek
 
