@@ -50,20 +50,14 @@ redirect_from:
 
 
 ## Languages
-Native English
-
-Intermediate Latin 
-
+Native English  
+Intermediate Latin   
 Intermediate Ancient Greek
 
 
 ## Volunteer Work 
-On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present
-
-Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025
-
-Various Roles | Edmonton PrideFest | 2022-2023
-
-Greeter | Stanley A. Milner Grand Opening | 2020
-
+On-Site Assistant & Various Roles | Taste of Edmonton | 2019-Present  
+Planning Committee Member | Digital Humanities Student Association (DHSA) | 2024-2025  
+Various Roles | Edmonton PrideFest | 2022-2023  
+Greeter | Stanley A. Milner Grand Opening | 2020  
 BA Classics Undergrad Q&A Panelist | University of Alberta USchool Program | 2019
