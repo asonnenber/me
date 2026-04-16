@@ -34,9 +34,8 @@ Edmonton Public Library, September 2015 - Present
 
 ## Technical Skills  
   
- Voyant / Spyral      |    Python    |    SQL       |    GameMaker |  Google Workspace      
- Google My Maps       |    Ren'Py    |    Excel     |    MS Office |      
- SIRSI Dynix Symphony |  Relais D2D  |              |              |     
+ Voyant / Spyral      |    Python    |    SQL       |   GameMaker  |  Google Workspace      
+ Google My Maps       |    Ren'Py    |    MS Office |   Relais D2D |  SIRSI Dynix Symphony  
 
 ## Memberships  
 Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)  
