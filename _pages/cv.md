@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-
 **MA in Digital Humanities**, University of Alberta, Graduated 2025
 * Specialization in Library and Information Studies
 * University of Alberta Elevation Award (2024, 2025)
