@@ -18,7 +18,7 @@ BA in Classics, University of Alberta, Graduated 2022
 Linguistics Minor  
 Honor's Thesis: "  
 
-**Culinary Arts Diploma**, NAIT, Graduated 2014  
+**Culinary Arts Diploma, NAIT, Graduated 2014**  
 Food Sanitation and Hygiene certificate 
 
 ## Work Experience
