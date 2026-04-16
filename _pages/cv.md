@@ -34,8 +34,8 @@ PC Express Associate, Superstore, December 2022 - July 2023
 
 ## Technical Skills  
   
-Google Workspace     |  MS Office   |  Python    |    SQL   |  Google My Maps     
-SIRSI Dynix Symphony | Relais D2D   |  GameMaker |   Ren'Py |  Voyant / Spyral      
+Google Workspace     |  MS Office | Markdown |    SQL    | Data Mining | HTML/CSS | Google My Maps     
+SIRSI Dynix Symphony | Relais D2D | Python   | GameMaker |   Ren'Py    | Tracery  | Voyant / Spyral      
 
 ## Memberships  
 Member of the International Golden Key Honors Society’s U of A chapter (2020-Present)  
