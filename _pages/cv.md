@@ -25,16 +25,16 @@ Food Sanitation and Hygiene certificate
 **Materials Handling Clerk**  
 Edmonton Public Library, September 2015 - Present
   
-**Casual Catering Supervisor/Cafeteria Associate** 
+**Casual Catering Supervisor/Cafeteria Associate**  
 Captain Con Ltd., October 2008 - July 2024
   
-**PC Express Associate**
+**PC Express Associate**  
 Superstore, December 2022 - July 2023
 
-**Paint Associate** 
+**Paint Associate**  
 Home Depot, April 2016 - August 2017 
 
-**Seasonal Customer Service Representative**
+**Seasonal Customer Service Representative**  
 Coles, November 2015 - January 2016 
 
 ## Technical Skills  
