@@ -1,0 +1,25 @@
+<div class="archive__item">
+  <article class="archive__item">
+
+    <h2 class="archive__item-title">
+      {{ post.title }}
+    </h2>
+
+    {% if post.excerpt %}
+      <p>{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+    {% endif %}
+
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">Download paper</a>
+    {% endif %}
+
+    {% if post.repository %}
+      <a href="{{ post.repository }}">GitHub</a>
+    {% endif %}
+
+    {% if post.slidesurl %}
+      <a href="{{ post.slidesurl }}">Slides</a>
+    {% endif %}
+
+  </article>
+</div>
