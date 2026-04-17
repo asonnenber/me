@@ -31,3 +31,6 @@ I've provided quite a few examples of my research projects, paper, and maker pro
 **Cat Cafe Antics** is a visual novel about two friends visiting a cat café so one of them, La-lloyd can find a “furrever” companion. It is a cozy, sarcastic narrative experience that explores friendship, humour, and lighthearted absurdity, including a talking cat.
 
 **Who Stole the Cookies from the Cookie Jar?** is a generative text project that produces playful, randomized scenarios about who “stole the cookies” and why. It began as a playful aesthetic experiment and is being expanded into a Bluesky bot to explore ongoing generative storytelling in social media spaces. I'm really looking forward to completing my first Bluesky bot and adding it into my portfolio.
+
+
+**Interpreting Women: Gendered Narratives in English Translations of Homer’s Odyssey** is a text analysis project using Voyant Tools to compare eleven English translations of Homer's *The Odyssey* (Books 18–22). It examines how mortal women—Penelope, Eurycleia, Melantho, and the serving women executed by Telemachus—are represented across texts. The dataset includes ten male translators and Emily Wilson’s 2017 translation, focusing on patterns of gendered language and bias.
