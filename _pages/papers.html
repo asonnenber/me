@@ -1,40 +1,66 @@
 ---
-layout: default
+layout: archive
+title: "Papers"
+permalink: /papers/
+author_profile: true
 ---
 
-<div id="main" role="main">
-  {% include sidebar.html %}
-  
-  <div class="archive">
-    <h1 class="page__title">{{ page.title }}</h1>
-    
-    {% if site.papers_category %}
-      {% for category in site.papers_category %}
-        {% assign title_shown = false %}
-        {% for post in site.papers reversed %}
-          {% if post.category != category[0] %}
-            {% continue %}
-          {% endif %}
-          {% unless title_shown %}
-            <h2>{{ category[1].title }}</h2><hr />
-            {% assign title_shown = true %}
-          {% endunless %}
-          
-          <!-- Custom papers display without title links -->
-          <div class="archive__item">
-            <h3 class="archive__item-title">{{ post.title }}</h3>
-            
-            {% if post.paperurl %}
-              <a href="{{ post.paperurl }}" class="btn btn--primary">Download paper</a>
-            {% endif %}
-            
-            {% if post.repository %}
-              <a href="{{ post.repository }}">GitHub</a>
-            {% endif %}
-          </div>
-          
-        {% endfor %}
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
+<!-- New style rendering if publication categories are defined -->
+{% if site.paper_category %}
+  {% for category in site.paper_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.papers reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      
+      <!-- Custom display for papers without title link -->
+      <div class="archive__item">
+        <h2 class="archive__item-title">{{ post.title }}</h2>
+        
+        {% if post.excerpt %}
+          <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+        {% endif %}
+        
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" class="btn btn--primary">Download paper</a>
+        {% endif %}
+        
+        {% if post.repository %}
+          <a href="{{ post.repository }}">GitHub Repository</a>
+        {% endif %}
+        
+        {% if post.slidesurl %}
+          <a href="{{ post.slidesurl }}">Slides</a>
+        {% endif %}
+      </div>
+      
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.papers reversed %}
+    <div class="archive__item">
+      <h2 class="archive__item-title">{{ post.title }}</h2>
+      
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+      {% endif %}
+      
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" class="btn btn--primary">Download paper</a>
+      {% endif %}
+      
+      {% if post.repository %}
+        <a href="{{ post.repository }}">GitHub Repository</a>
+      {% endif %}
+      
+      {% if post.slidesurl %}
+        <a href="{{ post.slidesurl }}">Slides</a>
+      {% endif %}
+    </div>
+  {% endfor %}
+{% endif %}
