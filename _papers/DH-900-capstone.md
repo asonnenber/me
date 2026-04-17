@@ -4,4 +4,5 @@ permalink: /papers/
 paperurl: 'https://asonnenber.github.io/me/files/DH-900-Capstone-Fall-2024.pdf'
 author_profile: true
 
+collection: papers
 ---
