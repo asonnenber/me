@@ -17,6 +17,7 @@ Capstone: "Book's Quest" / "Join Me on My Next Case: Story, Gameplay and Game Me
 **BA in Classics, University of Alberta, Graduated 2022**  
 Linguistics Minor  
 Honor's Thesis: "A Twist on Tradition: Connections Between Physical Abnormalities, Ailments and Roman Morals in Martial’s *Epigrams*"  
+Graduated *cum laude*
 
 **Culinary Arts Diploma, NAIT, Graduated 2014**  
 Food Sanitation and Hygiene certificate 
