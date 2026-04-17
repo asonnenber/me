@@ -17,7 +17,9 @@ I am currently developing independent creative projects across narrative games a
 I hold a Culinary Arts diploma from NAIT (2014), a BA in Classics from the University of Alberta (2021), and an MA in Digital Humanities with a Specialization in Library and Information Studies from the University of Alberta (2025). I have also worked in the Collection Management and Access division at the Edmonton Public Library since 2015. My academic work has focused on resource sharing, data storytelling, and burning outdated systems to the ground—especially when it comes to censorship, gatekeeping, and the myth of of neutrality in knowledge systems. That being said, I'm not here to replicate the classics; I'm here to rewrite the canon.
 
 ### Who am I as a person?
-Outside of school, I’m a big fan of fresh air and creating chaos. You’ll usually find me camping, swimming, digging in my garden, or dancing my heart out with friends. I love crocheting, trying new restaurants, and organizing other people’s homes for fun. When I’m not knee-deep in decluttering, I’m vibing to metalcore music, K-pop boy bands, and rewatching procedural crime shows, dark comedies, and nostalgic animated films. 
+Outside of work, I’m a big fan of fresh air and creating chaos. You’ll usually find me camping, swimming, digging in my garden, or dancing my heart out with friends. I love crocheting, trying new restaurants, and organizing other people’s homes for fun. 
+
+When I’m not knee-deep in decluttering, I’m vibing to metalcore music, K-pop boy bands, and rewatching procedural crime shows, dark comedies, and nostalgic animated films. 
 
 I thrive in organized chaos, powered by caffeine and angrily fixing my car (again). I am also actively working on personal and creative growth, balancing coding projects, critique, and the occasional existential spiral. Even when things get overwhelming, I'm still building things that matter to me.
 
