@@ -5,62 +5,37 @@ permalink: /papers/
 author_profile: true
 ---
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.papers_category %}
-  {% for category in site.papers_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.papers reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      
-      <!-- Custom display for papers without title link -->
-      <div class="archive__item">
-        <h2 class="archive__item-title">{{ post.title }}</h2>
-        
-        {% if post.excerpt %}
-          <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
-        {% endif %}
-        
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" class="btn btn--primary">Download paper</a>
-        {% endif %}
-        
-        {% if post.repository %}
-          <a href="{{ post.repository }}">GitHub Repository</a>
-        {% endif %}
-        
-        {% if post.slidesurl %}
-          <a href="{{ post.slidesurl }}">Slides</a>
-        {% endif %}
-      </div>
-      
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.papers reversed %}
+{% assign papers_by_category = site.papers | group_by_exp: "post", "post.categories[0]" %}
+
+{% for category in papers_by_category %}
+  {% if category.name %}
+    <h2>{{ category.name }}</h2>
+    <hr />
+  {% endif %}
+
+  {% for post in category.items reversed %}
     <div class="archive__item">
+      
       <h2 class="archive__item-title">{{ post.title }}</h2>
-      
+
       {% if post.excerpt %}
-        <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+        <p class="archive__item-excerpt">
+          {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+        </p>
       {% endif %}
-      
+
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}" class="btn btn--primary">Download paper</a>
       {% endif %}
-      
+
       {% if post.repository %}
         <a href="{{ post.repository }}">GitHub Repository</a>
       {% endif %}
-      
+
       {% if post.slidesurl %}
         <a href="{{ post.slidesurl }}">Slides</a>
       {% endif %}
+
     </div>
   {% endfor %}
-{% endif %}
+{% endfor %}
