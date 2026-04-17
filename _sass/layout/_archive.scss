@@ -1,6 +1,6 @@
 /* ==========================================================================
    ARCHIVE
-   ========================================================================== */
+========================================================================== */
 
 .archive {
   margin-bottom: 2em;
@@ -27,6 +27,7 @@
   }
 }
 
+/* subtitles */
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -39,6 +40,7 @@
   }
 }
 
+/* title styling */
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
@@ -48,15 +50,15 @@
   }
 }
 
-/* remove border*/
+/* remove border */
 .page__content {
-
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
   }
 }
 
+/* excerpt */
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
@@ -66,14 +68,21 @@
   }
 }
 
+/* teaser image */
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+
   img {
     width: 100%;
   }
 }
 
+/* ================================
+   HOVER BEHAVIOR FIX (IMPORTANT)
+   ================================ */
+
+/* Default theme behavior (kept for portfolio etc.) */
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -84,11 +93,21 @@
   }
 }
 
+/* 🚨 OVERRIDE ONLY FOR PAPERS PAGE */
+.page-papers .archive__item:hover {
+  .archive__item-title {
+    text-decoration: none !important;
+  }
+}
 
-/*
-   List view
-   ========================================================================== */
+.page-papers .archive__item-title a,
+.page-papers .archive__item-title a:hover {
+  text-decoration: none !important;
+}
 
+/* ================================
+   LIST VIEW
+================================ */
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -107,11 +126,9 @@
   }
 }
 
-
-/*
-   Grid view
-   ========================================================================== */
-
+/* ================================
+   GRID VIEW
+================================ */
 .grid__item {
   margin-bottom: 2em;
 
@@ -130,14 +147,15 @@
 
   @include breakpoint($small) {
     @include gallery(5 of 10);
+
     .archive__item-teaser {
       max-height: 200px;
     }
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; /* reset before mixin does its thing*/
-    margin-right: 0; /* reset before mixin does its thing*/
+    margin-left: 0;
+    margin-right: 0;
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
@@ -151,11 +169,9 @@
   }
 }
 
-
-/*
-   Features
-   ========================================================================== */
-
+/* ================================
+   FEATURES
+================================ */
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
@@ -176,70 +192,14 @@
     }
   }
 
-  &--left {
-    @include full();
-    font-size: 1.25rem;
-
-    .archive__item-teaser {
-      margin-bottom: 2em;
-    }
-
-    @include breakpoint($small) {
-      .archive__item-teaser {
-        @include span(5 of 12);
-      }
-
-      .archive__item-body {
-        @include span(7 of 12 last);
-        @include prefix(0.5 of 12);
-        @include suffix(1 of 12);
-      }
-    }
-  }
-
-  &--right {
-    @include full();
-    font-size: 1.25rem;
-
-    .archive__item-teaser {
-      margin-bottom: 2em;
-    }
-
-    @include breakpoint($small) {
-      text-align: right;
-
-      .archive__item-teaser {
-        @include span(5 of 12 rtl);
-      }
-
-      .archive__item-body {
-        @include span(7 of 12 last rtl);
-        @include prefix(0.5 of 12);
-        @include suffix(1 of 12);
-      }
-    }
-  }
-
+  &--left,
+  &--right,
   &--center {
     @include full();
     font-size: 1.25rem;
 
     .archive__item-teaser {
       margin-bottom: 2em;
-    }
-
-    @include breakpoint($small) {
-      text-align: center;
-
-      .archive__item-teaser {
-        margin: 0 auto;
-        width: span(5 of 12);
-      }
-
-      .archive__item-body {
-        margin: 0 auto;
-        width: span(7 of 12);
-      }
     }
   }
 }
