@@ -40,7 +40,7 @@
   }
 }
 
-/* title styling */
+/* title */
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
@@ -68,7 +68,7 @@
   }
 }
 
-/* teaser image */
+/* teaser */
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
@@ -78,11 +78,10 @@
   }
 }
 
-/* ================================
-   HOVER BEHAVIOR FIX (IMPORTANT)
-   ================================ */
+/* =========================================
+   DEFAULT HOVER (portfolio etc)
+========================================= */
 
-/* Default theme behavior (kept for portfolio etc.) */
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -93,15 +92,14 @@
   }
 }
 
-/* 🚨 OVERRIDE ONLY FOR PAPERS PAGE */
-.page-papers .archive__item:hover {
-  .archive__item-title {
-    text-decoration: none !important;
-  }
-}
+/* =========================================
+   🚨 FINAL OVERRIDE (papers ONLY BEHAVIOR)
+   KILLS HOVER UNDERLINE COMPLETELY
+========================================= */
 
-.page-papers .archive__item-title a,
-.page-papers .archive__item-title a:hover {
+.archive .archive__item:hover .archive__item-title,
+.archive .archive__item:hover .archive__item-title a,
+.archive__item-title a:hover {
   text-decoration: none !important;
 }
 
