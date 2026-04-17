@@ -4,4 +4,3 @@ paperurl: 'https://asonnenber.github.io/me/files/papers/2019-The-Endurance-of-Pa
 
 collection: papers
 ---  
-  
