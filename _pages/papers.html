@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.paper_category %}
-  {% for category in site.paper_category  %}
+{% if site.papers_category %}
+  {% for category in site.papers_category  %}
     {% assign title_shown = false %}
     {% for post in site.papers reversed %}
       {% if post.category != category[0] %}
