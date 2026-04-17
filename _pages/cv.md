@@ -12,7 +12,7 @@ redirect_from:
 ## Education  
 **MA in Digital Humanities, University of Alberta, Graduated 2025**  
 Specialization in Library and Information Studies  
-Capstone: "Book's Quest" / "Join Me on My Next Case: Story, Gameplay and Game Mechanics in the Nancy Drew PC Series During the Rise, Fall and Resurgence of Point-and-Click Adventure Games"
+Capstones: "Book's Quest" / "Join Me on My Next Case: Story, Gameplay and Game Mechanics in the Nancy Drew PC Series During the Rise, Fall and Resurgence of Point-and-Click Adventure Games"
 
 **BA in Classics, University of Alberta, Graduated 2022**  
 Linguistics Minor  
