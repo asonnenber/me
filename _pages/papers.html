@@ -1,29 +1,40 @@
 ---
-layout: archive
-title: "Papers"
-permalink: /papers/
-author_profile: true
+layout: default
 ---
 
-
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.paper_category %}
-  {% for category in site.paper_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.papers reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.papers reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div id="main" role="main">
+  {% include sidebar.html %}
+  
+  <div class="archive">
+    <h1 class="page__title">{{ page.title }}</h1>
+    
+    {% if site.paper_category %}
+      {% for category in site.paper_category %}
+        {% assign title_shown = false %}
+        {% for post in site.papers reversed %}
+          {% if post.category != category[0] %}
+            {% continue %}
+          {% endif %}
+          {% unless title_shown %}
+            <h2>{{ category[1].title }}</h2><hr />
+            {% assign title_shown = true %}
+          {% endunless %}
+          
+          <!-- Custom papers display without title links -->
+          <div class="archive__item">
+            <h3 class="archive__item-title">{{ post.title }}</h3>
+            
+            {% if post.paperurl %}
+              <a href="{{ post.paperurl }}" class="btn btn--primary">Download paper</a>
+            {% endif %}
+            
+            {% if post.repository %}
+              <a href="{{ post.repository }}">GitHub</a>
+            {% endif %}
+          </div>
+          
+        {% endfor %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
