@@ -1,5 +1,5 @@
 ---
-title: "Female Vengeance in Antiquity: An Analysis of Euripides’ and Seneca’s *_Medea_*"
+title: "Female Vengeance in Antiquity: An Analysis of Euripides’ and Seneca’s *Medea*"
 paperurl: 'https://asonnenber.github.io/me/files/papers/2018-Analysis-of-Euripides’-and-Seneca’s-Medea.pdf'
 
 collection: papers
