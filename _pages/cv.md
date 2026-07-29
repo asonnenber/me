@@ -23,7 +23,7 @@ Graduated *cum laude*
 Food Sanitation and Hygiene certificate 
 
 ## Work Experience
-**Materials Handling Clerk**  
+**Materials Handling Clerk/Page**  
 Edmonton Public Library, September 2015 - Present
   
 **Casual Catering Supervisor/Cafeteria Associate**  
@@ -40,7 +40,7 @@ Coles, November 2015 - January 2016
 
 ## Technical Skills  
   
-Google Workspace     |  MS Office | Canada Post shipping tools | LOOMIS shipping systems   |    SQL  | Data Mining | Markdown |  HTML/CSS      
+Google Workspace     |  MS Office | Canada Post Shipping Tools | LOOMIS Shipping Systems   |    SQL  | Data Mining | Markdown |  HTML/CSS      
 SIRSI Dynix Symphony | Relais D2D | Google My Maps             | Voyant / Spyral           |  Python | GameMaker   |   Ren'Py | Tracery        
 
 ## Memberships  
