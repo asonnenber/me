@@ -1,5 +1,5 @@
 ---
-title: "Interpreting Women: Gendered Narratives in English Translations of Homer's Odyssey ***(HOST SERVER UNDER MAINTENANCE)**"
+title: "Interpreting Women: Gendered Narratives in English Translations of Homer's Odyssey **(*HOST SERVER UNDER MAINTENANCE)**"
 excerpt: "This study analyzes how eleven English translators of the Odyssey represent mortal women, focusing on Books 18-22, and reveals gender bias in their language choices. It centers on mortal characters: Penelope, Eurycleia, Melantho, and the serving women executed by Telemachus. The dataset consists of ten male translators and Emily Wilson, the first woman to publish an English translation of the Odyssey in 2017. All text analysis was done using Voyant Tools. 
 
 
