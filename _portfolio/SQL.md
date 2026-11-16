@@ -4,7 +4,7 @@ excerpt: "This project explored how municipal tree planting records could be use
 
 The project combined relational database design, data preparation and SQL-based analysis to explore how an existing municipal dataset could be used to answer broader questions about urban development. 
 
-![tables.png](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/tree-sql/tables.png)" 
+![tables.png](images/portfolio-screenshots/tree-sql/tables.png)" 
 collection: portfolio
 ---
 
