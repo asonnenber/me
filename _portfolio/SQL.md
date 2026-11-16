@@ -7,5 +7,5 @@ excerpt: "This project explored how municipal tree planting records could be use
 collection: portfolio
 ---
 
-![tables.png](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/trees/tables.png)
+![tables.png](https://github.com/asonnenber/me/blob/master/images/portfolio-screenshots/trees/tables.png?raw=true)
 
